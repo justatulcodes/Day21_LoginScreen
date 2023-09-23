@@ -1,16 +1,7 @@
 # day21_simpleapp
 
-A new Flutter project.
+Day 21 Of 30 Days Of Android UI Building Challenge
 
-## Getting Started
+<img src="https://github.com/justatulcodes/Day21_loginScreen/assets/106759388/8b51d1a1-4014-43e6-be75-f0b162d87307" alt="Image" width="500" height="500">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Click To Watch Video](https://www.youtube.com/watch?v=G7qvLrkSzwM&ab_channel=Expeknow)
